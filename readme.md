@@ -1,2 +1,2 @@
 get env.php for .env
-database - test.sql
+database - dtech.sql
